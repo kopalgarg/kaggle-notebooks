@@ -1,17 +1,20 @@
-Source: https://archive.ics.uci.edu/ml/datasets/Heart+Disease
+Source: https://www.cs.toronto.edu/~delve/data/boston/bostonDetail.html
 
 Attribute information: 
 
-```age
-sex
-chest pain type (4 values)
-resting blood pressure
-serum cholestoral in mg/dl
-fasting blood sugar > 120 mg/dl
-resting electrocardiographic results (values 0,1,2)
-maximum heart rate achieved
-exercise induced angina
-oldpeak = ST depression induced by exercise relative to rest
-the slope of the peak exercise ST segment
-number of major vessels (0-3) colored by flourosopy
-thal: 3 = normal; 6 = fixed defect; 7 = reversable defect```
+```
+CRIM - per capita crime rate by town
+ZN - proportion of residential land zoned for lots over 25,000 sq.ft.
+INDUS - proportion of non-retail business acres per town.
+CHAS - Charles River dummy variable (1 if tract bounds river; 0 otherwise)
+NOX - nitric oxides concentration (parts per 10 million)
+RM - average number of rooms per dwelling
+AGE - proportion of owner-occupied units built prior to 1940
+DIS - weighted distances to five Boston employment centres
+RAD - index of accessibility to radial highways
+TAX - full-value property-tax rate per $10,000
+PTRATIO - pupil-teacher ratio by town
+B - 1000(Bk - 0.63)^2 where Bk is the proportion of blacks by town
+LSTAT - % lower status of the population
+MEDV - Median value of owner-occupied homes in $1000's
+```
